@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ajay Haridas
 - 👀 I’m interested in AI applications in Football Analytics and Medical field.
-- 🌱 I’m currently learning Masters in Artificial Intelligence at University of Essex.
+- 🌱 Research student at NHS.
+- 🌱 I’m currently in the final term of Masters in Artificial Intelligence at University of Essex.
 - 💞️ I’m looking to collaborate on projects which are more interesting to me.
 - 📫 Contact : ajay1h1das@gmail.com
 
