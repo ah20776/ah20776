@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ajay Haridas
-- 👀 I’m interested in AI applications in Football Analytics and Medical field.
-- 🌱 Research student at NHS.
-- 🌱 I’m currently in the final term of Masters in Artificial Intelligence at University of Essex.
-- 💞️ I’m looking to collaborate on projects which are more interesting to me.
+- 👀 Information Analyst, Bromley Healthcare NHS Trust.
+- 🌱 Qualification: MSc. Artificial Intelligence with Distinction.
+- 💞️ Software and Language Knowledge: R,Python,SQL,Alteryx,QlikSense.
+- 💞️ Area of Expertise: Data Mining, Computer Vision, Web Scrapping, ROS, Dashboard Creation, Keras, Pandas, Scikit-Learn, Tensorflow.
 - 📫 Contact : ajay1h1das@gmail.com
 
 <!---
